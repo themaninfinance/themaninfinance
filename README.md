@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ... everything
 - 💞️ I’m looking to collaborate on ... finance
 - 📫 How to reach me ... github
-- 😄 Pronouns: ... Man
-- ⚡ Fun fact: ... I'm supreme
+- ⚡ Fun fact: ... People think I possess great power.
 
 <!---
 themaninfinance/themaninfinance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
